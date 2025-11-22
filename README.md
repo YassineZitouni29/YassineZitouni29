@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **YassineZitouni29/YassineZitouni29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,13 +19,15 @@ Here are some ideas to get you started:
 🎓 I'm studying Computer Science Engineering at UM6P – College of Computing (Morocco), a leading computing school in Africa.
 
 ## 🔭 About me
-📚 Strong foundation in mathematics, algorithms, and computer science
-💡 Interested in machine learning, NLP, systems, and algorithmic thinking
-💻 Comfortable with Java, Python, C++, JavaScript, SQL, and web development
-⚙️ Experienced with JavaFX, Linux, CI/CD pipelines, Docker, and RISC-V
-🔍 I love exploring how things work at a low level — from CPU instructions to compiler behavior
-🧩 I enjoy tackling hard problems, building visual tools, and turning theory into intuition
-🤝 I like collaborating, sharing ideas, and pushing myself through ambitious projects
+📚 Strong foundation in mathematics, algorithms, and computer science<br>
+💡 Interested in machine learning, NLP, systems, and algorithmic thinking<br>
+💻 Comfortable with Java, Python, C++, JavaScript, SQL, and web development<br>
+⚙️ Experienced with JavaFX, Linux, CI/CD pipelines, Docker, and RISC-V<br>
+🔍 I love exploring how things work at a low level — from CPU instructions to compiler behavior<br>
+🧩 I enjoy tackling hard problems, building visual tools, and turning theory into intuition<br>
+🤝 I like collaborating, sharing ideas, and pushing myself through ambitious projects<br>
 
-## Collaboration
-I’m looking to collaborate on machine learning, NLP, and algorithmic projects with real impact
+## Let's connect
+📫 (reach me by email:) (yassinezitouni4789@gmail.com)<br>
+👯 I’m looking to collaborate on machine learning, NLP, and algorithmic projects with real impact<br>
+👯 (My LinkedIn:) (www.linkedin.com/in/yassine-zitouni-62857b341)<br>
