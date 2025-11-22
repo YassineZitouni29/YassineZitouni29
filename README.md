@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 🤝 I like collaborating, sharing ideas, and pushing myself through ambitious projects<br>
 
 ## Let's connect
-📫 (reach me by email:) (yassinezitouni4789@gmail.com)<br>
+📫 [reach me by email: ](yassinezitouni4789@gmail.com)<br>
 👯 I’m looking to collaborate on machine learning, NLP, and algorithmic projects with real impact<br>
-👯 (My LinkedIn:) (www.linkedin.com/in/yassine-zitouni-62857b341)<br>
+👯 [My LinkedIn: ](www.linkedin.com/in/yassine-zitouni-62857b341)<br>
