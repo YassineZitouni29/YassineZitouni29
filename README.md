@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ## Hey there, I'm Yassine 👋
 
-🔥 I'm passionate about Computer Science and Machine Learning, with a deep interest in Statistics
-🧠 I enjoy building things from scratch and diving into challenging problems
+🔥 I'm passionate about Computer Science and Machine Learning, with a deep interest in Statistics<br>
+🧠 I enjoy building things from scratch and diving into challenging problems<br>
 🎓 I'm studying Computer Science Engineering at UM6P – College of Computing (Morocco), a leading computing school in Africa.
 
 ## 🔭 About me
